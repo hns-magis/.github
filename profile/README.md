@@ -1,12 +1,10 @@
 ## Action de recherche "Humanités Numériques Spatialisées" (HNS) du GDR CNRS MAGIS
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Depuis quelques années, une dynamique importante émerge autour des “humanités numériques spatialisées”.
+On peut citer les groupes d'intérêt spécial [​ADHO GeoHumanities](https://geohumanities.org/?p=115) et ​[Dariah-EU GeoHumanities](https://www.dariah.eu/activities/working-groups/geohumanities/) associés à des infrastructures et associations internationales, les conférences comme ​Spatial Humanities qui a eu lieu à Lancaster en 2018, ainsi que les séries d’ateliers ​ACM SIGSPATIAL on [Geospatial Humanities](https://ludovicmoncla.github.io/sigspatial-geohumanities-2023/) (depuis 2017) et les ateliers organisés lors de la conférence Digital Humanities (depuis 2016) tels que [​APlace4Places](http://aplace4places.github.io) et ​[Geohum conversations​](https://geohumanities.org/?p=115).
+
+
+Cette AR a pour enjeu de fédérer un groupe pluridisciplinaire de chercheurs en informatique, géographie, linguistique et SHS autour des questions liées à l’extraction et l’interprétation d’informations géographiques à partir de documents textuels hétérogènes ​(textes, récits, annuaires, dictionnaires géographiques, encyclopédies, etc.)​.
+
