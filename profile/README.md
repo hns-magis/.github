@@ -1,4 +1,4 @@
-## Hi there 👋
+## Action de recherche "Humanités Numériques Spatialisées" (HNS) du GDR CNRS MAGIS
 
 <!--
 
