@@ -24,6 +24,14 @@ Visualisation, représentations cartographiques et analyse spatiale à partir de
 Conception d'outils dédiés aux données textuelles compatibles avec les SIG (y compris SIG historiques).
 
 
+### Site Web
+
+Le site Web de l'action est disponible à l'adresse suivante : [https://hns-magis.github.io](https://hns-magis.github.io).
+
+Les membres de la communauté peuvent ajouter des actualités qui seront affichées sur le site.
+
+
+
 ### Liste de diffusion
 
 Nous proposons une liste de diffusion afin de faciliter les échanges entre les membres de l'action de recherche HNS.
